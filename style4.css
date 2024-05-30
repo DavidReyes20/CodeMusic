@@ -1,0 +1,28 @@
+.seccion-nosotros {
+    padding: 50px 0;
+    background-color: #171717;
+    text-align: center;
+}
+
+.titulo-seccion {
+    margin-bottom: 30px;
+    color:  white;
+}
+
+.contenido-nosotros {
+    max-width: 800px;
+    margin: 0 auto;
+    color: white;
+    text-align: left;
+}
+
+.contenido-nosotros h3 {
+    color: white;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.contenido-nosotros p {
+    line-height: 1.6;
+    text-align: justify;
+}

@@ -1,0 +1,31 @@
+.calendario {
+    width: 400px;
+    margin: 0 auto;
+    border: 1px solid #4b1a00;
+    padding: 10px;
+    font-family: Arial, sans-serif;
+}
+
+.calendario{
+    margin-top: 30px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #ffc0a3;
+}
+
+.semana {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+
+.dia {
+    color: white;
+    width: 50px;
+    text-align: center;
+    border: 1px solid #755d5d;
+    padding: 5px;
+}
